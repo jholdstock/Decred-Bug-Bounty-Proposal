@@ -23,6 +23,7 @@ There are two ways we can go about this and I want the communities input on whic
 In this we will be developing some website or using a @decred.org email for getting bug bounty reports. 
 
   Pros: 
+  
   Senstive data will stay within decred orginization.
 
 
@@ -30,7 +31,7 @@ In this we will be developing some website or using a @decred.org email for gett
   
   This might take longer to setup
   
-  Most self run programs receive low of  low quality reports or non security bugs.
+  Most self run programs receive lots of  low quality reports or non security bugs.
 
 
 
@@ -89,7 +90,7 @@ Later we can also look into custom swag gift's (Maybe in the next proposal after
 
 **Who:**
 
-I have been working with the project the last few months and would like to believe I have contributed in a useful manner to decred.
+I have been working with the decred project the last few months and would like to believe I have contributed in a useful manner to decred.
 
 I also have prior expirence as both a bug hunter and a validatior and think I would be a good fit for this role.
 
