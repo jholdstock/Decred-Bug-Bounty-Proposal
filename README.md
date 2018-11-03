@@ -1,24 +1,24 @@
 # Decred-Bug-Bounty-Proposal
 
-**What:
+**What:**
 
 I suggest we start a bug bounty program to find security vulnerabilities in decred. This would help us improve our overall security posture and get us a fresh set of eyes on our code's and websites.
 
 
-**Why:
+**Why:**
 
 We do not currently have a formal bug bounty program. I sometimes observe people visiting our chatrooms and enquiring about a bug bounty program which shows there is a real interest in people who want to find vulnerabilities in decred and report them for an award.
 
 
 Having a formal program will enable us to funnel all reports through one single structure and ensure that valid reports are looked at and fixed  while keeping away bad reports that take up valuable dev time.
 
-**How:
+**How:**
 
 There are two ways we can go about this and I want the communities input on which method we can go for [Will edit the proposal accordingly, please also add more points below]:
 
 
 
-**Self Run:
+**Self Run:**
 
 In this we will be developing some website or using a @decred.org email for getting bug bounty reports. 
 
@@ -32,7 +32,7 @@ In this we will be developing some website or using a @decred.org email for gett
 
 
 
-**Use a bug bounty platform(hackerone,bugcroud etc):
+**Use a bug bounty platform(hackerone,bugcroud etc):**
 
   Pros:
   If the vote passes we can decide on a platform and start quickly in a couple of weeks.
@@ -80,7 +80,7 @@ Setup a "Thank you" page in the "decred.org" website to publicly appreciate the 
 
 Later we can also look into custom swag gift's (Maybe in the next proposal after 6 months) eg: A customized decred jacket; t-shirts etc
 
-**Who:
+**Who:**
 
 I have been working with the project the last few months and would like to believe I have contributed in a useful manner to decred.
 
@@ -91,7 +91,7 @@ Hence I nominate myself as "validator" to this project and welcome any other dec
 Once we have the "Decred Contractor Clearance Process" setup we will be able to use parts of it to hire more validators.
 
 
-**Costing and Funds:
+**Costing and Funds:**
 
 I would prefer the DCR for this project stay with the treasury and we send them bi-weekly or monthly requests to release the funds directly to the bug bounty hunters Decred address or towards operation costs if any. 
 
@@ -108,7 +108,7 @@ Cost 10000-15000 USD (10000 USD is the softcap) in DCR per month to go towards p
 
 A total of 70000 to 100000 USD in DCR for 6 months (Since we suggest the treasury spend the money any excess will be available in the treasury for other projects and proposals)
 
-**When and Duration:
+**When and Duration:**
 
 I suggest we plan to get this votes andrunning by the last week of december. This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
 
@@ -116,7 +116,7 @@ I suggest we plan to get this votes andrunning by the last week of december. Thi
 
 Below is a sample programs rules and scope:
 
-**Introduction:
+**Introduction:**
 
 
 The decred community welcomes security researchers and bug bounty hunters to find security vulnerabilities in its website and projects. (more text to follow)
@@ -160,13 +160,13 @@ https://github.com/decred/decred-php-api
 https://github.com/decred/dcraddrgen
 
 
-**Not in scope:
+**Not in scope:**
 
 https://slack.decred.org/ (Slack)
 
 ++add more later
 
-**The following vulnerabilities are generally out of scope:
+**The following vulnerabilities are generally out of scope:**
 
 Missing security best practices that do not directly lead to a vulnerability
 
@@ -182,7 +182,7 @@ Bugs requiring exceedingly unlikely user interaction
 
 Clickjacking on pages with no sensitive actions.
 
-**Rules:
+**Rules:**
 
 We prohibit DDOS or network bandwidth load testing.
 
@@ -191,7 +191,7 @@ No social engineering.
 No spamming.
 
 
-**Reminders:
+**Reminders:**
 
 Almost all of decreds projects can be run locally and reproduction instruction are available on github. We strongly recommend you do this this.
 
