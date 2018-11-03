@@ -27,7 +27,9 @@ In this we will be developing some website or using a @decred.org email for gett
 
 
   Cons:
+  
   This might take longer to setup
+  
   Most self run programs receive low of  low quality reports or non security bugs.
 
 
@@ -35,13 +37,18 @@ In this we will be developing some website or using a @decred.org email for gett
 **Use a bug bounty platform(hackerone,bugcroud etc):**
 
   Pros:
+  
   If the vote passes we can decide on a platform and start quickly in a couple of weeks.
+  
   Many allow for a soft launch with a select group of verified or high reputation hackers. This would allow us to make necessary adjustments to our process.
+  
   Most have a built with reputation system that discourages bad reports.
+  
   Have duplicate detection mechanisms.
 
 
   Cons:
+  
   We have to trust a third party with senstive information of decred.
 
 
