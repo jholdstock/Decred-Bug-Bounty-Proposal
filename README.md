@@ -18,7 +18,7 @@ There are two ways we can go about this and I want the communities input on whic
 
 
 
-**Self Run:**
+**Self Hosted:**
 
 In this we will be developing some website or using a @decred.org email for getting bug bounty reports. 
 
@@ -31,7 +31,7 @@ In this we will be developing some website or using a @decred.org email for gett
   
   This might take longer to setup
   
-  Most self run programs receive lots of  low quality reports or non security bugs.
+  Most Self Hosted programs receive lots of  low quality reports or non security bugs.
 
 
 
@@ -109,16 +109,20 @@ I do not see this taking up more than 20-50 hours a month per validator.
 
 If we go ahead with the selfhosting solution we will have to take into account development or infrastructure costs. 
 
-If we choose an external management platform they might also have some charges though some waive that fee for opensource projects.
+If we choose an external management platform they might also have some charges. (Many waive this fee for opensource projects)
 
-Cost 10000-15000 USD (10000 USD is the softcap) in DCR per month to go towards paying the bug bounties. And an another discretionary fund of 10000 USD (This is for high impact critical vulnerabilities or exceptionally good reports and covers platform fees etc)
+Cost 10000-15000 USD (10000 USD is the softcap) in DCR per month to go towards paying the bug bounties. 
+
+And a single discretionary fund of 10000 USD (This is for high impact critical vulnerabilities or exceptionally good reports and covers platform fees etc)
 
 
-A total of 70000 to 100000 USD in DCR for 6 months (Since we suggest the treasury spend the money any excess will be available in the treasury for other projects and proposals)
+A total of 70000 to 100000 USD in DCR for 6 months (Since we suggest the treasury spend the money directly any excess will be available in for other proposals and spendings)
 
 **When and Duration:**
 
-I suggest we plan to get this votes andrunning by the last week of december. This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
+I suggest we plan to get this up for vote by 21 November. And launch the bug bounty project by the last week of december.
+
+This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
