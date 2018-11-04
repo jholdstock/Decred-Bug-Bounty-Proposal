@@ -213,4 +213,4 @@ Use the testnet when possible.
 
 Decred project is not responsible for any loss of DCR due to bug testing. (ie: don't do dumb stuff and lose your DCR)
 
-Current/Past (For up-to 6 months) decred contractors are barred from taking part in this bug bounty program. [This is to prevent people from knowingly adding buggy code and "finding" a bug and claiming a bounty]
+Current/Past (For up-to 6 months) decred developers are barred from taking part in this bug bounty program. [This is to prevent people from knowingly adding buggy code and "finding" a bug and claiming a bounty]
