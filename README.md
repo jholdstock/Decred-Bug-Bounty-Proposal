@@ -124,10 +124,24 @@ I suggest we plan to get this up for vote by 21 November. And launch the bug bou
 
 This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+crypto related programs (What we can expect):
+
+https://hackerone.com/brave/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
+https://hackerone.com/augurproject/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
+https://hackerone.com/myetherwallet/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
+https://hackerone.com/tronfoundation/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Aall%20to%3Atronfoundation&page=1 c
+https://hackerone.com/hyperledger/hacktivity (Nothing has been disclosed yet)
+https://ww2.bugcrowd.com/rs/453-IJC-858/images/bugcrowd-dash-case-study-2018.pdf
+https://bugcrowd.com/binance
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Below is a sample programs rules and scope:
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **Introduction:**
 
 
