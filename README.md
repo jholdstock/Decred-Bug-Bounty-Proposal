@@ -52,15 +52,17 @@ In this we will be developing some website or using a @decred.org email for gett
   
   We have to trust a third party with senstive information of decred.
 
-
+-----
 
 We will be using the CVSS v3.0 system for scoring and prioritizing vulnerabilities (https://www.first.org/cvss/calculator/3.0)
 
+We will also take into consideration the impact on the decred ecosystem. An RCE in dcrdocs (Low impact) is not the same as an RCE in dcrd or decrediton (Higher impact)
+
 Indicative payout amounts (CVSS is not the only indicator we will also take into account the userimpact and decred specific points):
 
-Low: 50 - 100 USD
+Low: 50 - 300 USD
 
-Medium: 100 - 700 USD
+Medium: 300 - 700 USD
 
 High: 700 - 1500 USD
 
@@ -155,7 +157,7 @@ Below is a sample programs rules and scope:
 **Introduction:**
 
 
-The decred community welcomes security researchers and bug bounty hunters to find security vulnerabilities in its website and projects. (more text to follow)
+The decred community welcomes security researchers and bug bounty hunters to find security vulnerabilities in its website and projects. (more text to follow). All bug reports need to have a clear exploit or POC. 
 
 The following domains and decred projects are in scope:
 
