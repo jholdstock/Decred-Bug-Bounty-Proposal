@@ -46,6 +46,7 @@ In this we will be developing some website or using a @decred.org email for gett
   Most have a built with reputation system that discourages bad reports.
   
   Have duplicate detection mechanisms.
+  
 
 
   Cons:
@@ -58,7 +59,7 @@ We will be using the CVSS v3.0 system for scoring and prioritizing vulnerabiliti
 
 We will also take into consideration the impact on the decred ecosystem. An RCE in dcrdocs (Low impact) is not the same as an RCE in dcrd or decrediton (Higher impact)
 
-Indicative payout amounts (CVSS is not the only indicator we will also take into account the userimpact and decred specific points):
+Indicative payout amounts:
 
 Low: 50 - 300 USD
 
@@ -66,7 +67,7 @@ Medium: 300 - 700 USD
 
 High: 700 - 1500 USD
 
-Critical: 1500 USD +
+Critical: 1500 USD and more
 
 
 
@@ -84,7 +85,7 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
   - Form a core team that decides on any payout above 500$. (Anything below this can be given out at their discretion)
   
 
-We might need to do some social media posts to get the wordout.
+We will need to do some social media posts to get the wordout.
 
 Setup a "Thank you" page in the "decred.org" website to publicly appreciate the people who have found valid vulnerabilities.
 
@@ -98,14 +99,14 @@ I also have prior expirence as both a bug hunter and a validatior and think I wo
 
 Hence I nominate myself as "validator" to this project and welcome any other decred members/ contractors who have been vetted to join in. 
 
-Once we have the "Decred Contractor Clearance Process" setup we will be able to use parts of it to hire more validators.
+Once we have the "Decred Contractor Clearance Process" setup we will be able to use it to hire more validators.
 
 
 **Costing and Funds:**
 
 I would prefer the DCR for this project stay with the treasury and we send them bi-weekly or monthly requests to release the funds directly to the bug bounty hunters Decred address or towards operation costs if any. 
 
-The validators  will already be contractors of decred and can bill the decred project directly for hours spent on this work.
+The validators who will already be contractors of decred and can bill the decred project directly for hours spent on this work.
 
 I do not see this taking up more than 20-50 hours a month per validator. 
 
@@ -165,27 +166,29 @@ The following domains and decred projects are in scope:
 
 *.dcrdata.org
 
+Projects in scope (Higher payout for the ones on top): 
+
+https://github.com/decred/dcrd
+
+https://github.com/decred/dcrwallet
+
+https://github.com/decred/decrediton
+
 https://github.com/decred/politeia
 
 https://github.com/decred/politeiagui
 
 https://github.com/decred/dcrdata
 
-https://github.com/decred/dcrdocs
+https://github.com/decred/dcrstakepool
 
-https://github.com/decred/dcrd
-
-https://github.com/decred/decrediton
+https://github.com/decred/atomicswap
 
 https://github.com/decred/dcrweb
 
 https://github.com/decred/dcrwebapi
 
-https://github.com/decred/atomicswap
-
-https://github.com/decred/dcrwallet
-
-https://github.com/decred/dcrstakepool
+https://github.com/decred/dcrdocs
 
 https://github.com/decred/gominer
 
@@ -194,6 +197,8 @@ https://github.com/decred/dcrtime
 https://github.com/decred/testnetfaucet
 
 https://github.com/decred/decred-php-api
+
+https://github.com/decred/decred-magento-plugin
 
 https://github.com/decred/dcraddrgen
 
@@ -239,4 +244,4 @@ Use the testnet when possible.
 
 Decred project is not responsible for any loss of DCR due to bug testing. (ie: don't do dumb stuff and lose your DCR)
 
-Current/Past (For up-to 6 months) decred developers are barred from taking part in this bug bounty program. [This is to prevent people from knowingly adding buggy code and "finding" a bug and claiming a bounty]
+All Current/Past (For up-to 6 months) decred developers are barred from taking part in this bug bounty program.  [This is to prevent people from knowingly adding buggy code and "finding" a bug and claiming a bounty]
