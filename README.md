@@ -142,6 +142,8 @@ https://bugcrowd.com/binance
 Below is a sample programs rules and scope:
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 **Introduction:**
 
 
