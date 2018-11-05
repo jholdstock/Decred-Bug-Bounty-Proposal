@@ -120,7 +120,7 @@ A total of 70000 to 100000 USD in DCR for 6 months (Since we suggest the treasur
 
 **When and Duration:**
 
-I suggest we plan to get this up for vote by 21 November. And launch the bug bounty project by the last week of december.
+I suggest we plan to get this up for vote by 28 November. And launch the bug bounty project by the last week of december.
 
 This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
 
