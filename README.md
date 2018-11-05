@@ -7,10 +7,12 @@ I suggest we start a bug bounty program to find security vulnerabilities in decr
 
 **Why:**
 
-We do not currently have a formal bug bounty program. I sometimes observe people visiting our chatrooms and enquiring about a bug bounty program which shows there is a real interest in people who want to find vulnerabilities in decred and report them for an award.
+We do not currently have a formal bug bounty program. A bug bounty program aims to use collective intelligence of many "bug bounty hunters" to find and fix security vulnerabilites. 
+
+Many times I observe people visiting our chatrooms and enquiring about a bug bounty program which shows there is a real interest in people who want to find vulnerabilities in decred and report them for an award.
 
 
-Having a formal program will enable us to funnel all reports through one single structure and ensure that valid reports are looked at and fixed  while keeping away bad reports that take up valuable dev time.
+Having a formal program will enable us to funnel all reports through one single process and ensure that valid reports are looked at and fixed  while keeping away bad reports that take up valuable dev time.
 
 **How:**
 
