@@ -149,6 +149,8 @@ https://ww2.bugcrowd.com/rs/453-IJC-858/images/bugcrowd-dash-case-study-2018.pdf
 
 https://bugcrowd.com/binance
 
+https://blog.lisk.io/announcing-lisk-bug-bounty-program-5895bdd46ed4
+
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
