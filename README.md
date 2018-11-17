@@ -139,13 +139,13 @@ Below is a sample programs rules and scope:
 
 The decred community welcomes security researchers and bug bounty hunters to find security vulnerabilities in its website and projects. (more text to follow). All bug reports need to have a clear exploit or POC. 
 
-The following domains and decred projects are in scope:
+**The following domains and decred projects are in scope:**
 
 *.decred.com
 
 *.dcrdata.org
 
-Projects in scope : 
+**Projects in scope : **
 
 All current projects under.
 
@@ -159,40 +159,40 @@ https://slack.decred.org/ (Slack)
 
 **The following vulnerabilities are generally out of scope:**
 
-Missing security best practices that do not directly lead to a vulnerability
+* Missing security best practices that do not directly lead to a vulnerability
 
-Insecure settings in non-sensitive cookies
+* Insecure settings in non-sensitive cookies
 
-Vulnerabilities (including XSS) that affect only legacy browser/plugins
+* Vulnerabilities (including XSS) that affect only legacy browser/plugins
 
-Non-technical attacks such as social engineering, phishing, or physical attacks against our members, users, or infrastructure
+* Non-technical attacks such as social engineering, phishing, or physical attacks against our members, users, or infrastructure
 
-Missing HTTP headers, unless a vulnerability can be demonstrated
+* Missing HTTP headers, unless a vulnerability can be demonstrated
 
-Bugs requiring exceedingly unlikely user interaction
+* Bugs requiring exceedingly unlikely user interaction
 
-Clickjacking on pages with no sensitive actions.
+* Clickjacking on pages with no sensitive actions.
 
 **Rules:**
 
-We prohibit DDOS or network bandwidth load testing.
+* We prohibit DDOS or network bandwidth load testing.
 
-No social engineering.
+* No social engineering.
 
-No spamming.
+* No spamming.
 
 
 **Reminders:**
 
-Almost all of decreds projects can be run locally and reproduction instruction are available on github. We strongly recommend you do this this.
+* Almost all of decreds projects can be run locally and reproduction instruction are available on github. We strongly recommend you do this this.
 
-Only test the code in the "main" merged branch of the projects.
+* Only test the code in the "main" merged branch of the projects.
 
-Use the testnet when possible.
+* Use the testnet when possible.
 
-Decred project is not responsible for any loss of DCR due to bug testing. (ie: don't do dumb stuff and lose your DCR)
+* Decred project is not responsible for any loss of DCR due to bug testing. (ie: don't do dumb stuff and lose your DCR)
 
-All Current/Past (For up-to 6 months) decred developers are barred from taking part in this bug bounty program.  [This is to prevent people from knowingly adding buggy code and "finding" a bug and claiming a bounty]
+* All Current/Past (For up-to 6 months) decred developers are barred from taking part in this bug bounty program.  [This is to prevent people from knowingly adding buggy code and "finding" a bug and claiming a bounty]
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
