@@ -94,11 +94,11 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 **Who:**
 
-*I have been working with the decred project the last few months and would like to believe I have contributed in a useful manner to decred.I also have prior experience as both a bug hunter and a validator and think I would be a good fit for this role.Hence I nominate myself as "validator" to this project.
+* I have been working with the decred project the last few months and would like to believe I have contributed in a useful manner to decred.I also have prior experience as both a bug hunter and a validator and think I would be a good fit for this role.Hence I nominate myself as "validator" to this project.
 
-*Welcome any other decred members/ contractors who have been vetted to join in on this. 
+* Welcome any other decred members/contractors who have been vetted to join in on this. 
 
-*Once we have the "Decred Contractor Clearance Process" setup we will be able to use it to hire more validators.
+* Once we have the "Decred Contractor Clearance Process" setup we will be able to use it to hire more validators.
 
 
 **Costing and Funds:**
