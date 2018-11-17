@@ -1,30 +1,29 @@
 # Decred-Bug-Bounty-Proposal
 
-**What:**
+# What:
 
 I suggest we start a bug bounty program to find security vulnerabilities in decred. This would help us improve our overall security posture and get us a fresh set of eyes on our code's and websites.
 
 
-**Why:**
+# Why:
 
-We do not currently have a formal bug bounty program. A bug bounty program aims to use collective intelligence of many "bug bounty hunters" to find and fix security vulnerabilites. 
+We do not currently have a formal bug bounty program. A bug bounty program aims to use collective intelligence of many "bug bounty hunters" to find and fix security vulnerabilities. 
 
-Many times I observe people visiting our chatrooms and enquiring about a bug bounty program which shows there is a real interest in people who want to find vulnerabilities in decred and report them for an award.Having a formal program will enable us to funnel all reports through one single process and ensure that valid reports are looked at and fixed  while keeping away bad reports that take up valuable dev time.
+Many times I observe people visiting our chatrooms and inquiring about a bug bounty program which shows there is a real interest in people who want to find vulnerabilities in decred and report them for an award.Having a formal program will enable us to funnel all reports through one single process and ensure that valid reports are looked at and fixed  while keeping away bad reports that take up valuable dev time.
 
-**How:**
+# How:
 
-There are two ways we can go about this and I want the communities input on which method we can go for [Will edit the proposal accordingly, please also add more points below]:
+There are two ways we can go about this and I want the communities input on which method we can go for [Will edit the proposal accordingly]:
 
 
 
-**Self Hosted:**
+## Self Hosted:
 
 In this we will be developing some website or using a @decred.org email for getting bug bounty reports. 
 
   Pros: 
   
-  * Senstive data will stay within decred orginization.
-
+  * Sensitive data will stay within decred organization.
 
   Cons:
   
@@ -34,7 +33,7 @@ In this we will be developing some website or using a @decred.org email for gett
 
 
 
-**Use a bug bounty platform(hackerone,bugcroud etc):**
+## Use a bug bounty platform(hackerone,bugcroud etc):
 
   Pros:
   
@@ -50,10 +49,12 @@ In this we will be developing some website or using a @decred.org email for gett
 
   Cons:
   
-  *  We have to trust a third party with senstive information of decred.
-  *  Payout issues
+  *  We have to trust a third party with sensitive information of decred.
+  *  Payout and payment conversion issues
 
------
+-----------------------------------------
+
+
 
 1. We will be using the CVSS v3.0 system for scoring and prioritizing vulnerabilities (https://www.first.org/cvss/calculator/3.0)
 
@@ -74,28 +75,28 @@ Critical: 5000 USD and more
 
 To achieve all this we need a group of "vulnerability validators" who are verified decred contractors. Their jobs is as follows.
 
-    * Check, validate and respond to all bug reports sent to the system.
+    - Check, validate and respond to all bug reports sent to the system.
 
-    * If its a serious vulnerability escalate the vulnerability to the person in-charge of the project and core staff.
+    - If its a serious vulnerability escalate the vulnerability to the person in-charge of the project and core staff.
 
-    * If its a non serious open an issue in github and follow through on fixes.
+    - If its a non serious open an issue in github and follow through on fixes.
 
-    * Maintain constant contact with the bug reporter and keep them apprised on the status of their report.(Many times I see frustrated bug reporters complain on twitter or publicly release 0-day bugs due to security teams not responding properly to their reports) 
+    - Maintain constant contact with the bug reporter and keep them apprised on the status of their report.(Many times I see frustrated bug reporters complain on twitter or publicly release 0-day bugs due to security teams not responding properly to their reports) 
 
-    * Form a core team that decides on any payout above 500$. (Anything below this can be given out at their discretion)
+    - Form a core team that decides on any payout above 500$. (Anything below this can be given out at their discretion)
   
 
-*We will need to do some social media posts to get the wordout.
+* We will need to do some social media posts to get the wordout.
 
-*Setup a "Thank you" page in the "decred.org" website to publicly appreciate the people who have found valid vulnerabilities.
+* Setup a "Thank you" page in the "decred.org" website to publicly appreciate the people who have found valid vulnerabilities.
 
-*Later we can also look into custom swag gift's (Maybe in the next proposal after 6 months) eg: A customized decred jacket; t-shirts etc
+* Later we can also look into custom swag gift's (Maybe in the next proposal after 6 months) eg: A customized decred jacket; t-shirts etc
 
 **Who:**
 
 I have been working with the decred project the last few months and would like to believe I have contributed in a useful manner to decred.
 
-I also have prior expirence as both a bug hunter and a validatior and think I would be a good fit for this role.
+I also have prior experience as both a bug hunter and a validator and think I would be a good fit for this role.
 
 Hence I nominate myself as "validator" to this project and welcome any other decred members/ contractors who have been vetted to join in. 
 
@@ -110,7 +111,7 @@ Once we have the "Decred Contractor Clearance Process" setup we will be able to 
 
 * I do not see this taking up more than 20-50 hours a month per validator. 
 
-* If we go ahead with the selfhosting solution we will have to take into account development or infrastructure costs. 
+* If we go ahead with the selfhosting solution we will first have to start out with email and once we are more familiar with the process we can open a seperate proposal to get funds to start working/designing on a self hosted solution. 
 
 * If we choose an external management platform they might also have some charges. (Many waive this fee for opensource projects)
 
@@ -118,41 +119,18 @@ Once we have the "Decred Contractor Clearance Process" setup we will be able to 
 
 Cost 20000-25000 USD (20000 USD is the softcap) in DCR per month to go towards paying the bug bounties. 
 
-And a single discretionary fund of 20000 USD (This is for high impact critical vulnerabilities or exceptionally good reports and covers platform fees etc)
+And a single discretionary fund of 50000 USD (This is for high impact critical vulnerabilities or exceptionally good reports and covers platform fees etc)
 
 
-A total of 160000 to 200000 USD in DCR for 6 months (Since we suggest the treasury spend the money directly any excess will be available in for other proposals and spendings)
+A total of 150000 to 200000 USD in DCR for 6 months 
+
+(Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's)
 
 **When and Duration:**
 
 I suggest we plan to get this up for vote by 28 November. And launch the bug bounty project by the last week of december.
 
 This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-crypto related programs (What we can expect):
-
-https://hackerone.com/monero/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
-
-https://hackerone.com/brave/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
-
-https://hackerone.com/augurproject/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
-
-https://hackerone.com/myetherwallet/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
-
-https://hackerone.com/tronfoundation/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Aall%20to%3Atronfoundation&page=1 (Nothing has been disclosed yet)
-
-https://hackerone.com/hyperledger/hacktivity (Nothing has been disclosed yet)
-
-https://ww2.bugcrowd.com/rs/453-IJC-858/images/bugcrowd-dash-case-study-2018.pdf
-
-https://bugcrowd.com/binance
-
-https://blog.lisk.io/announcing-lisk-bug-bounty-program-5895bdd46ed4
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Below is a sample programs rules and scope:
 
@@ -218,3 +196,30 @@ Use the testnet when possible.
 Decred project is not responsible for any loss of DCR due to bug testing. (ie: don't do dumb stuff and lose your DCR)
 
 All Current/Past (For up-to 6 months) decred developers are barred from taking part in this bug bounty program.  [This is to prevent people from knowingly adding buggy code and "finding" a bug and claiming a bounty]
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+crypto related programs (What we can expect):
+
+https://hackerone.com/monero/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
+
+https://hackerone.com/brave/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
+
+https://hackerone.com/augurproject/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
+
+https://hackerone.com/myetherwallet/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page=1
+
+https://hackerone.com/tronfoundation/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Aall%20to%3Atronfoundation&page=1 (Nothing has been disclosed yet)
+
+https://hackerone.com/hyperledger/hacktivity (Nothing has been disclosed yet)
+
+https://ww2.bugcrowd.com/rs/453-IJC-858/images/bugcrowd-dash-case-study-2018.pdf
+
+https://bugcrowd.com/binance
+
+https://blog.lisk.io/announcing-lisk-bug-bounty-program-5895bdd46ed4
+
+https://bounty.ethereum.org/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
