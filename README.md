@@ -115,13 +115,13 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 **Cost Breakdown**
 
-*Cost 20000-25000 USD (20000 USD is the softcap) in DCR per month to go towards paying the bug bounties. 
+* Cost 20000-25000 USD (20000 USD is the softcap) in DCR per month to go towards paying the bug bounties. 
 
-*And a single discretionary fund of 50000 USD (This is for high impact critical vulnerabilities or exceptionally good reports and covers platform fees etc)
+* And a single discretionary fund of 50000 USD (This is for high impact critical vulnerabilities or exceptionally good reports and covers platform fees etc)
 
-*A total of 150000 to 200000 USD in DCR for 6 months 
+* A total of 150000 to 200000 USD in DCR for 6 months 
 
-*(Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's)*
+* (Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's)*
 
 **When and Duration:**
 
