@@ -94,13 +94,11 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 **Who:**
 
-I have been working with the decred project the last few months and would like to believe I have contributed in a useful manner to decred.
+*I have been working with the decred project the last few months and would like to believe I have contributed in a useful manner to decred.I also have prior experience as both a bug hunter and a validator and think I would be a good fit for this role.Hence I nominate myself as "validator" to this project.
 
-I also have prior experience as both a bug hunter and a validator and think I would be a good fit for this role.
+*Welcome any other decred members/ contractors who have been vetted to join in on this. 
 
-Hence I nominate myself as "validator" to this project and welcome any other decred members/ contractors who have been vetted to join in. 
-
-Once we have the "Decred Contractor Clearance Process" setup we will be able to use it to hire more validators.
+*Once we have the "Decred Contractor Clearance Process" setup we will be able to use it to hire more validators.
 
 
 **Costing and Funds:**
@@ -117,14 +115,13 @@ Once we have the "Decred Contractor Clearance Process" setup we will be able to 
 
 **Cost Breakdown**
 
-Cost 20000-25000 USD (20000 USD is the softcap) in DCR per month to go towards paying the bug bounties. 
+*Cost 20000-25000 USD (20000 USD is the softcap) in DCR per month to go towards paying the bug bounties. 
 
-And a single discretionary fund of 50000 USD (This is for high impact critical vulnerabilities or exceptionally good reports and covers platform fees etc)
+*And a single discretionary fund of 50000 USD (This is for high impact critical vulnerabilities or exceptionally good reports and covers platform fees etc)
 
+*A total of 150000 to 200000 USD in DCR for 6 months 
 
-A total of 150000 to 200000 USD in DCR for 6 months 
-
-(Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's)
+*(Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's)*
 
 **When and Duration:**
 
