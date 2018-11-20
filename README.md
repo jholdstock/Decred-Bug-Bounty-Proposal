@@ -129,6 +129,11 @@ I suggest we plan to get this up for vote by 28 November. And launch the bug bou
 
 This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
 
+**Work Flow**
+
+![alt text](https://raw.githubusercontent.com/degeri/Decred-Bug-Bounty-Proposal/master/workflow.png)
+
+
 Below is a sample programs rules and scope:
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
