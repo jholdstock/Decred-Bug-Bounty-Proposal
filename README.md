@@ -13,46 +13,7 @@ Many times I observe people visiting our chatrooms and inquiring about a bug bou
 
 # How:
 
-There are two ways we can go about this and I want the communities input on which method we can go for [Will edit the proposal accordingly]:
-
-
-
-## Self Hosted:
-
-In this we will be developing some website or using a @decred.org email for getting bug bounty reports. 
-
-  Pros: 
-  
-  * Sensitive data will stay within decred organization.
-
-  Cons:
-  
-  * This might take longer to setup
-  
-  * Most Self Hosted programs receive lots of  low quality reports or non security bugs.
-
-
-
-## Use a bug bounty platform(hackerone,bugcroud etc):
-
-  Pros:
-  
- * If the vote passes we can decide on a platform and start quickly in a couple of weeks.
-  
- * Many allow for a soft launch with a select group of verified or high reputation hackers. This would allow us to make necessary adjustments to our process.
-  
-  * Most have a built with reputation system that discourages bad reports.
-  
-  *  Have duplicate detection mechanisms.
-  
-
-
-  Cons:
-  
-  *  We have to trust a third party with sensitive information of decred.
-  *  Payout and payment conversion issues
-
------------------------------------------
+We will have a selfhosted program and use a @decred.org email for getting bug bounty reports.The bug bounty hunters will be sending us PGP encrypted emails of their findings in a predefined format. 
 
 
 
@@ -68,8 +29,7 @@ Medium: 300 - 1500 USD
 
 High: 1500 - 5000 USD
 
-Critical: 5000 USD and more
-
+Critical: Above 5000 USD
 
 
 
@@ -88,13 +48,17 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 * We will need to do some social media posts to get the wordout.
 
-* Setup a "Thank you" page in the "decred.org" website to publicly appreciate the people who have found valid vulnerabilities.
+* We need to define the bug bounty policy/rules and scope.
 
-* Later we can also look into custom swag gift's (Maybe in the next proposal after 6 months) eg: A customized decred jacket; t-shirts etc
+* Setup a simple website bounty.decred.org which will contain information about the program,rules and scope.
+
+* Setup a "Thank you" page in the "bounty.decred.org" website to publicly appreciate the people who have found valid vulnerabilities.
+
+* (Future) Later we can also look into custom swag gift's (Maybe in the next proposal after 6 months) eg: A customized decred jacket; t-shirts etc
 
 **Who:**
 
-* I have been working with the decred project the last few months and would like to believe I have contributed in a useful manner to decred.I also have prior experience as both a bug hunter and a validator and think I would be a good fit for this role.Hence I nominate myself as "validator" to this project.
+* I have been working with the decred project the last few months and would like to believe I have contributed in a useful manner to decred. I also have prior experience as both a bug hunter and a validator and think I would be a good fit for this role. Hence I nominate myself as "validator" to this project.
 
 * Welcome any other decred members/contractors who have been vetted to join in on this. 
 
@@ -103,25 +67,30 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 **Costing and Funds:**
 
-* I would prefer the DCR for this project stay with the treasury and we send them bi-weekly or monthly requests to release the funds directly to the bug bounty hunters Decred address or towards operation costs if any. 
+* The DCR for this project will stay with the treasury and we send them bi-weekly or monthly requests to release the funds directly to the bug bounty hunters Decred address or towards operation costs if any. 
 
 * The validators who will already be contractors of decred and can bill the decred project directly for hours spent on this work.
 
-* I do not see this taking up more than 20-50 hours a month per validator. 
+* I do not see validation taking up more than 20-50 hours a month. 
 
-* If we go ahead with the selfhosting solution we will first have to start out with email and once we are more familiar with the process we can open a seperate proposal to get funds to start working/designing on a self hosted solution. 
-
-* If we choose an external management platform they might also have some charges. (Many waive this fee for opensource projects)
 
 **Cost Breakdown**
 
-* Cost 20000-25000 USD (20000 USD is the softcap) in DCR per month to go towards paying the bug bounties. 
 
-* And a single discretionary fund of 50000 USD (This is for high impact critical vulnerabilities or exceptionally good reports and covers platform fees etc)
+* And a single fund of 10000 USD.
 
-* A total of 150000 to 200000 USD in DCR for 6 months 
+This will cover the following:
+  - Setting up the website and design  (4000 USD)
+  - Defining policies/rules and scope (2000 USD)
+  - Anything other non bounty expenditure. (4000 USD)
 
-* (Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's)*
+* A total of 10000 USD in DCR for 6 months 
+
+Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit.
+
+Based on past trends and other bug bounty programs I don't see it crossing 100000 USD.
+
+Note: (Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's) 
 
 **When and Duration:**
 
@@ -197,8 +166,7 @@ https://slack.decred.org/ (Slack)
 
 * Decred project is not responsible for any loss of DCR due to bug testing. (ie: don't do dumb stuff and lose your DCR)
 
-* All Current/Past (For up-to 6 months) decred developers are barred from taking part in this bug bounty program.  [This is to prevent people from knowingly adding buggy code and "finding" a bug and claiming a bounty]
-
+* All Current/Past (For up-to 6 months) decred developers are barred from taking part in this bug bounty program. 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
