@@ -2,7 +2,7 @@
 
 # What:
 
-I suggest we start a bug bounty program to find security vulnerabilities in decred. This would help us improve our overall security posture and get us a fresh set of eyes on our code's and websites.
+I suggest we start a bug bounty program to find security vulnerabilities in decred. This would help us improve our overall security posture and get a fresh set of eyes on our code's and websites.
 
 
 # Why:
@@ -54,7 +54,7 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 * Setup a "Thank you" page in the "bounty.decred.org" website to publicly appreciate the people who have found valid vulnerabilities.
 
-* (Future) Later we can also look into custom swag gift's (Maybe in the next proposal after 6 months) eg: A customized decred jacket; t-shirts etc
+* (Future) Later we can also look into custom swag gift's (Maybe in the next proposal in 6 months) eg: A customized decred jacket; t-shirts etc
 
 **Who:**
 
