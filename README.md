@@ -71,13 +71,13 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 * The validators who will already be contractors of decred and can bill the decred project directly for hours spent on this work.
 
-* Each validator would not spend more than 20-50 hours a month. (This will a part of core work)
+* I dont see each validator spending more than 20-50 hours a month. (This will a part of core work)
 
 
 **Cost Breakdown**
 
 
-* And a single fund of 10000 USD for six months.
+* An operating fund of 10000 USD for six months.
 
 This will cover the following:
   - Setting up the bounty website and design  (4000 USD)
@@ -85,7 +85,7 @@ This will cover the following:
   - Anything other non bounty expenditure like setting up email system, proof reading etc . (4000 USD) 
 
 
-Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit.But based on past trends and other bug bounty programs I predict that this would not cross 100000 USD for 6 months.
+Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. But based on past trends and other bug bounty programs I predict that this would not cross 100000 USD for 6 months.
 
 Note: (Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's) 
 
