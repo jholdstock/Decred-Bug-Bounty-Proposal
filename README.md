@@ -71,7 +71,7 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 * The validators who will already be contractors of decred and can bill the decred project directly for hours spent on this work.
 
-* I do not see validation taking up more than 20-50 hours a month. 
+* Each validator would not spend more than 20-50 hours a month. (This will a part of core work)
 
 
 **Cost Breakdown**
@@ -82,13 +82,13 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 This will cover the following:
   - Setting up the website and design  (4000 USD)
   - Defining policies/rules and scope (2000 USD)
-  - Anything other non bounty expenditure. (4000 USD)
+  - Anything other non bounty expenditure like setting up email system, proof reading, . (4000 USD) 
 
 * A total of 10000 USD in DCR for 6 months 
 
 Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit.
 
-Based on past trends and other bug bounty programs I don't see it crossing 100000 USD.
+Based on past trends and other bug bounty programs I don't see it crossing 100000 USD for 6 months.
 
 Note: (Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's) 
 
