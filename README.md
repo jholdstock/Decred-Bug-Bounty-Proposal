@@ -77,18 +77,15 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 **Cost Breakdown**
 
 
-* And a single fund of 10000 USD.
+* And a single fund of 10000 USD for six months.
 
 This will cover the following:
-  - Setting up the website and design  (4000 USD)
+  - Setting up the bounty website and design  (4000 USD)
   - Defining policies/rules and scope (2000 USD)
-  - Anything other non bounty expenditure like setting up email system, proof reading, . (4000 USD) 
+  - Anything other non bounty expenditure like setting up email system, proof reading etc . (4000 USD) 
 
-* A total of 10000 USD in DCR for 6 months 
 
-Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit.
-
-Based on past trends and other bug bounty programs I don't see it crossing 100000 USD for 6 months.
+Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit.But based on past trends and other bug bounty programs I predict that this would not cross 100000 USD for 6 months.
 
 Note: (Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's) 
 
