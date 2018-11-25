@@ -62,6 +62,8 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 * Welcome any other decred members/contractors who have been vetted to join in on this. 
 
+Current Validator List: dnldd , Degeri (me).
+
 * Once we have the "Decred Contractor Clearance Process" setup we will be able to use it to hire more validators.
 
 
