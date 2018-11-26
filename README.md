@@ -62,7 +62,7 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 * Welcome any other decred contractors to join in on this. 
 
-Current Validator List: dnldd , Degeri (me),matheusd
+Current Validator List: dnldd, Degeri (me), matheusd
 
 WebSite Development: fernandoabolafio, Degeri (me)
 
@@ -72,7 +72,7 @@ WebSite Development: fernandoabolafio, Degeri (me)
 
 * The validators who will already be contractors of decred and can bill the decred project directly for hours spent on this work.
 
-* I dont see each validator spending more than 20-30 hours a month. 
+* I don't see each validator spending more than 20-30 hours a month. 
 
 **Cost Breakdown**
 
@@ -80,8 +80,8 @@ WebSite Development: fernandoabolafio, Degeri (me)
 * An operating fund of 5000 USD for six months.
 
 This will cover the following:
-  - Setting up the bounty website.  (2000 USD)
-        Inital Setup:
+    - Setting up and Maintaining the bounty website.  (2000 USD)
+        Breakdown:
         -5 Hours * 7 Days = 35 Hours * 40usd/hour = 1400 USD for Web Development 
             200 USD completion bonus
         - 10 Hours * 40usd/hour= 400 USD for any other minor edits during the 6 months.
@@ -95,9 +95,9 @@ Note: (Since we suggest the treasury spend the money directly any excess will be
 
 **When and Duration:**
 
-I suggest we plan to get this up for vote in one week. And launch the bug bounty project by the last week of december.
+ * I suggest we plan to get this up for vote in one week. And launch the bug bounty project by the last week of December or January first week.
 
-This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
+ * This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
 
 **Work Flow**
 
@@ -159,7 +159,7 @@ https://slack.decred.org/ (Slack)
 
 **Reminders:**
 
-* Almost all of decreds projects can be run locally and reproduction instruction are available on github. We strongly recommend you do this this.
+* Almost all of decred's projects can be run locally and reproduction instruction are available on github. We strongly recommend you do this this.
 
 * Only test the code in the "main" merged branch of the projects.
 
