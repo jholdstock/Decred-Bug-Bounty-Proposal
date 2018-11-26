@@ -158,7 +158,7 @@ https://slack.decred.org/ (Slack)
 
 **Reminders:**
 
-* Almost all of decred's projects can be run locally and reproduction instruction are available on github. We strongly recommend you do this this.
+* Almost all of decred's projects can be run locally and reproduction instruction are available on github. We strongly recommend you to do this.
 
 * Only test the code in the "main" merged branch of the projects.
 
