@@ -122,7 +122,7 @@ The decred community welcomes security researchers and bug bounty hunters to fin
 
 **The following domains and decred projects are in scope:**
 
-*.decred.com
+*.decred.org
 
 *.dcrdata.org
 
