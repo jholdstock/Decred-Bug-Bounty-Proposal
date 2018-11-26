@@ -46,7 +46,7 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
     - Form a core team that decides on any payout above 500$. (Anything below this can be given out at their discretion)
   
 
-* We will need to do some social media posts to get the wordout.
+* We will need to do some social media posts to get the word out.
 
 * We need to define the bug bounty policy/rules and scope.
 
@@ -54,7 +54,6 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 * Setup a "Thank you" page in the "bounty.decred.org" website to publicly appreciate the people who have found valid vulnerabilities.
 
-* (Future) Later we can also look into custom swag gift's (Maybe in the next proposal in 6 months) eg: A customized decred jacket; t-shirts etc
 
 **Who:**
 
