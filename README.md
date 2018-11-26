@@ -2,7 +2,7 @@
 
 # What:
 
-I suggest we start a bug bounty program to find security vulnerabilities in decred. This would help us improve our overall security posture and get a fresh set of eyes on our code's and websites.
+I suggest we start a bug bounty program to find security vulnerabilities in decred. This would help us improve our overall security posture and get a fresh set of eyes on our code and websites.
 
 
 # Why:
