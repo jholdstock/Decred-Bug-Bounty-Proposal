@@ -64,27 +64,32 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 Current Validator List: dnldd , Degeri (me),matheusd
 
+WebSite Development: fernandoabolafio
+
 **Costing and Funds:**
 
 * The DCR for this project will stay with the treasury and we send them bi-weekly or monthly requests to release the funds directly to the bug bounty hunters Decred address or towards operation costs if any. 
 
 * The validators who will already be contractors of decred and can bill the decred project directly for hours spent on this work.
 
-* I dont see each validator spending more than 20-50 hours a month. (This will a part of core work)
-
+* I dont see each validator spending more than 20-50 hours a month. 
 
 **Cost Breakdown**
 
 
-* An operating fund of 10000 USD for six months.
+* An operating fund of 5000 USD for six months.
 
 This will cover the following:
-  - Setting up the bounty website and design  (xxxx USD)
-  - Defining policies/rules and scope (xxxx USD)
-  - Anything other non bounty expenditure like setting up email system, proof reading etc . (xxxx USD) 
+  - Setting up the bounty website.  (2000 USD)
+        Inital Setup:
+        -5 Hours * 7 Days = 35 Hours * 40usd/hour = 1400 USD for Web Development 
+            200 USD completion bonus
+        - 10 Hours * 40usd/hour= 400 USD for any other minor edits during the 6 months.
+  - Defining policies/rules and scope (1000 USD)
+  - Anything other non bounty expenditure like setting up email system, book keeping etc . (2000 USD) 
 
 
-Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. But based on past trends and other bug bounty programs I predict that this would not cross xxxx USD for 6 months.
+Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. But based on past trends and other bug bounty programs I predict that this would not cross **100000 USD for 6 months**.
 
 Note: (Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending's) 
 
