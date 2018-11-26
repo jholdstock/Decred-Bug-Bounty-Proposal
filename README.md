@@ -95,7 +95,7 @@ This will cover the following:
   - Anything other non bounty expenditure like setting up email system, book keeping etc . (2000 USD) 
 
 
-Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. But based on past trends and other bug bounty programs I predict that this would not cross **100000 USD for 6 months**.
+Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. But based on past trends and other bug bounty programs I predict that this would not cross **100,000 USD for 6 months**.
 
 Note: (Since we suggest the treasury spend the money directly any excess will be available for other proposals and spending) 
 
