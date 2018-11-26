@@ -64,7 +64,7 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 Current Validator List: dnldd , Degeri (me),matheusd
 
-WebSite Development: fernandoabolafio
+WebSite Development: fernandoabolafio, Degeri (me)
 
 **Costing and Funds:**
 
@@ -72,7 +72,7 @@ WebSite Development: fernandoabolafio
 
 * The validators who will already be contractors of decred and can bill the decred project directly for hours spent on this work.
 
-* I dont see each validator spending more than 20-50 hours a month. 
+* I dont see each validator spending more than 20-30 hours a month. 
 
 **Cost Breakdown**
 
