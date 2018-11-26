@@ -17,19 +17,17 @@ We will have a selfhosted program and use a @decred.org email for getting bug bo
 
 
 
-1. We will be using the CVSS v3.0 system for scoring and prioritizing vulnerabilities (https://www.first.org/cvss/calculator/3.0)
+1. We will be using the OWASP Risk Rating Methodology for scoring and prioritizing vulnerabilities (https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)
 
 2. We will also take into consideration the impact on the decred ecosystem. An RCE in dcrdocs (Low impact) is not the same as an RCE in dcrd or decrediton (Higher impact)
 
 Indicative payout amounts:
 
-Low: 50 - 300 USD 
-
-Medium: 300 - 1,500 USD
-
-High: 1,500 - 5,000 USD
-
-Critical: Above 5,000 USD
+Note: Upto 300 USD 
+Low: Upto 1,000 USD
+Medium: Upto 3,000 USD
+High: Upto 10,000 USD
+Critical: Upto 25,000 USD
 
 
 
