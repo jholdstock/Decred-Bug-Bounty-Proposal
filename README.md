@@ -95,7 +95,7 @@ Note: (Since we suggest the treasury spend the money directly any excess will be
 
 **When and Duration:**
 
-I suggest we plan to get this up for vote by 28 November. And launch the bug bounty project by the last week of december.
+I suggest we plan to get this up for vote in one week. And launch the bug bounty project by the last week of december.
 
 This project would be approved for 6 months the end of which I will compile a detailed report for the community and if all goes well request for another 6 months extension using a revised proposal. 
 
