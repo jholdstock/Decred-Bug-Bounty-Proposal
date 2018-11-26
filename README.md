@@ -25,11 +25,11 @@ Indicative payout amounts:
 
 Low: 50 - 300 USD 
 
-Medium: 300 - 1500 USD
+Medium: 300 - 1,500 USD
 
-High: 1500 - 5000 USD
+High: 1,500 - 5,000 USD
 
-Critical: Above 5000 USD
+Critical: Above 5,000 USD
 
 
 
@@ -76,23 +76,23 @@ WebSite Development: fernandoabolafio, Degeri (me)
 **Cost Breakdown**
 
 
-* An operating budget of 5000 USD for six months.
+* An operating budget of 5,000 USD for six months.
 
 This will cover the following:
 
-    - Setting up and Maintaining the bounty website.  (2000 USD)
+    - Setting up and Maintaining the bounty website.  (2,000 USD)
     
         Breakdown:
         
-        -5 Hours * 7 Days = 35 Hours * 40usd/hour = 1400 USD for Web Development 
+        -5 Hours * 7 Days = 35 Hours * 40usd/hour = 1,400 USD for Web Development 
         
             200 USD completion bonus
             
         - 10 Hours * 40usd/hour= 400 USD for any other minor edits during the 6 months.
         
-  - Defining policies/rules and scope (1000 USD)
+  - Defining policies/rules and scope (1,000 USD)
   
-  - Anything other non bounty expenditure like setting up email system, book keeping etc . (2000 USD) 
+  - Anything other non bounty expenditure like setting up email system, book keeping etc . (2,000 USD) 
 
 
 Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. But based on past trends and other bug bounty programs I predict that this would not cross **100,000 USD for 6 months**.
@@ -175,7 +175,7 @@ https://slack.decred.org/ (Slack)
 
 * All Current/Past (For up-to 6 months) decred developers are barred from taking part in this bug bounty program. 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Below will not be in the actual proposal++++++++++++++++++++++++
 
 crypto related programs (What we can expect):
 
