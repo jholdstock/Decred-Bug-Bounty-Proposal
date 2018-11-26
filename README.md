@@ -67,7 +67,7 @@ WebSite Development: fernandoabolafio, Degeri (me)
 
 **Costing and Funds:**
 
-* The DCR for this project will stay with the treasury and we send them bi-weekly or monthly requests to release the funds directly to the bug bounty hunters Decred address or towards operation costs if any. 
+* The DCR for this project will stay with the treasury and we send them monthly requests to release the funds directly to the bug bounty hunters Decred address or towards operation costs if any. 
 
 * The validators who will already be contractors of decred and can bill the decred project directly for hours spent on this work.
 
@@ -76,15 +76,22 @@ WebSite Development: fernandoabolafio, Degeri (me)
 **Cost Breakdown**
 
 
-* An operating fund of 5000 USD for six months.
+* An operating budget of 5000 USD for six months.
 
 This will cover the following:
+
     - Setting up and Maintaining the bounty website.  (2000 USD)
+    
         Breakdown:
+        
         -5 Hours * 7 Days = 35 Hours * 40usd/hour = 1400 USD for Web Development 
+        
             200 USD completion bonus
+            
         - 10 Hours * 40usd/hour= 400 USD for any other minor edits during the 6 months.
+        
   - Defining policies/rules and scope (1000 USD)
+  
   - Anything other non bounty expenditure like setting up email system, book keeping etc . (2000 USD) 
 
 
