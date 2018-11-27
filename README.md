@@ -59,7 +59,7 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 * Welcome any other decred contractors to join in on this. 
 
-Current Validator List: dnldd, Degeri (me), matheusd
+Current Validator List: dnldd, Degeri (me), matheusd, jholdstock
 
 WebSite Development: fernandoabolafio, Degeri (me)
 
