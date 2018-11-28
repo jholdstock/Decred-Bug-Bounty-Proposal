@@ -164,6 +164,10 @@ https://slack.decred.org/ (Slack)
 
 * We prohibit DDOS or network bandwidth load testing.
 
+* Unfortunately we are unable to pay for duplicate reports 
+
+* Public disclosure of the vulnerability without prior approval will make it ineligible for bounty.
+
 * No social engineering.
 
 * No spamming.
