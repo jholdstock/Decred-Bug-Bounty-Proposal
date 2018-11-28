@@ -21,12 +21,20 @@ We will have a selfhosted program and use a @decred.org email for getting bug bo
 
 2. We will also take into consideration the impact on the decred ecosystem. An RCE in dcrdocs (Low impact) is not the same as an RCE in dcrd or decrediton (Higher impact)
 
+![alt text](https://raw.githubusercontent.com/degeri/Decred-Bug-Bounty-Proposal/master/owasp.png)
+
+
+
 Indicative payout amounts:
 
 Note: Upto 300 USD 
+
 Low: Upto 1,000 USD
+
 Medium: Upto 3,000 USD
+
 High: Upto 10,000 USD
+
 Critical: Upto 25,000 USD
 
 
