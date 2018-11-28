@@ -82,7 +82,7 @@ WebSite Development: fernandoabolafio, Degeri (me)
 **Cost Breakdown**
 
 
-* An operating budget of 5,000 USD for six months.
+*An operating budget of 5,000 USD for six months.*
 
 This will cover the following:
 
