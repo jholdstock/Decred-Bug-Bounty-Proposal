@@ -39,7 +39,7 @@ Critical: up to 25,000 USD
 
 
 
-To achieve all this we need a group of "vulnerability validators" who are verified decred contractors. Their jobs is as follows.
+To achieve all this we need a group of "vulnerability validators" who are verified decred contractors. Their jobs are as follows.
 
     - Check, validate and respond to all bug reports sent to the system.
 
@@ -65,11 +65,10 @@ To achieve all this we need a group of "vulnerability validators" who are verifi
 
 * I have been working with the decred project the last few months and would like to believe I have contributed in a useful manner to decred. I also have prior experience as both a bug hunter and a validator and think I would be a good fit for this role.  Hence I nominate myself as a validator for this project.
 
-* Welcome any other decred contractors to join in on this. 
 
 Current Validator List: dnldd, Degeri (me), matheusd, jholdstock
 
-WebSite Development: fernandoabolafio, Degeri (me)
+Website Development: fernandoabolafio, Degeri (me)
 
 **Costing and Funds:**
 
@@ -98,7 +97,7 @@ This will cover the following:
         
   - Defining policies/rules and scope (1,000 USD)
   
-  - Anything other non bounty expenditure like setting up email system, book keeping etc . (2,000 USD) 
+  - Anything other non bounty expenditure like setting up email system, book-keeping etc . (2,000 USD) 
 
 
 Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. But based on past trends and other bug bounty programs I predict that this would not cross **100,000 USD for 6 months**.
