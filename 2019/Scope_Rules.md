@@ -106,7 +106,8 @@ dcr-netstats
 **Reminders:**
 
     Almost all of decred's projects can be run locally and reproduction instruction are available on github. We strongly recommend you to do this.
-
+    
+    Always check the "issues" in github of a project to avoid a duplicate report
 
     Use the testnet when possible.
 
