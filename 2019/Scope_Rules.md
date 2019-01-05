@@ -30,7 +30,7 @@ forum.decred.org
 proposals.decred.org (Production site for politeia do not test here)
 
 
-*staging.decred.org (Stating sites)
+*staging.decred.org (Staging sites)
 
 
 
