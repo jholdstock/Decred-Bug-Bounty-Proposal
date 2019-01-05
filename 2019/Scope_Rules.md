@@ -2,39 +2,70 @@
 
 The decred community welcomes security researchers and bug bounty hunters to find security vulnerabilities in its website and projects. (more text to follow). All bug reports need to have a clear exploit or POC.
 
-The only the following domains are in scope:
+**The the following domains are in scope:**
 
 *.decred.org
 
 *.dcrdata.org
 
+(See exceptions below)
+
 
 **The following domains are not in scope:**
 
-https://slack.decred.org/ (Slack)
+slack.decred.org 
 
-https://alpha.dcrdata.org (dcrdata alpha site)
+alpha.dcrdata.org 
+
+insight.decred.org
+
+slack2.decred.org
+
+rocketchat.decred.org
+
+bridge.decred.org
+
+forum.decred.org
+
+proposals.decred.org (Production site for politeia do not test here)
+
+**Any Staging site:**
+
+*staging.decred.org
+
 
 
 **Projects in scope :**
 
 The following active projects under (https://github.com/decred/) :
 
-dcrdata
+dcrd (Only https://github.com/decred/dcrd/releases/latest) 
 
-decrediton
+dcrdata (Only https://github.com/decred/dcrdata/releases/latest) 
+
+dcrwallet (Only https://github.com/decred/dcrwallet/releases/latest) 
+
+decrediton (Only https://github.com/decred/decrediton/releases/latest) 
 
 politeia
 
 politeiagui
 
-dcrdata
+atomicswap 
 
-dcrstakepool
+dcrstakepool (Only medium and above vulnerabilites will be eligible for bounty)
 
-dcrweb
+dcrweb 
+
+dcrwebapi 
 
 dcrdocs
+
+testnetfaucet 
+
+dcr-netstats 
+
+
 
 
 **The following vulnerabilities are generally out of scope:**
