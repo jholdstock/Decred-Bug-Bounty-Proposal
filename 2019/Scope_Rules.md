@@ -80,7 +80,9 @@ dcr-netstats
     Missing HTTP headers, unless a vulnerability can be demonstrated
 
     Bugs requiring exceedingly unlikely user interaction
-
+    
+    Outdated software / library versions 
+        
     Clickjacking on pages with no sensitive actions.
     
     
@@ -88,7 +90,7 @@ dcr-netstats
 **Rules:**
 
     We prohibit DDOS or network bandwidth load testing.
-
+    
     Unfortunately we are unable to pay for duplicate reports
 
     Public disclosure of the vulnerability without prior approval will make it ineligible for bounty.
