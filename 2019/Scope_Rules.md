@@ -1,4 +1,4 @@
-** Introduction: **
+**Introduction:**
 
 The decred community welcomes security researchers and bug bounty hunters to find security vulnerabilities in its website and projects. (more text to follow). All bug reports need to have a clear exploit or POC.
 
@@ -9,14 +9,14 @@ The only the following domains are in scope:
 *.dcrdata.org
 
 
-** The following domains are not in scope: **
+**The following domains are not in scope:**
 
 https://slack.decred.org/ (Slack)
 
 https://alpha.dcrdata.org (dcrdata alpha site)
 
 
-** Projects in scope : **
+**Projects in scope :**
 
 The following active projects under (https://github.com/decred/) :
 
@@ -37,7 +37,7 @@ dcrweb
 dcrdocs
 
 
-** The following vulnerabilities are generally out of scope: **
+**The following vulnerabilities are generally out of scope:**
 
     Missing security best practices that do not directly lead to a vulnerability
 
@@ -55,7 +55,7 @@ dcrdocs
     
     
 
-** Rules: **
+**Rules:**
 
     We prohibit DDOS or network bandwidth load testing.
 
@@ -71,7 +71,7 @@ dcrdocs
 
     Vulnerability reports made before the start of the program will not be eligible for a bounty.
 
-** Reminders: **
+**Reminders:**
 
     Almost all of decred's projects can be run locally and reproduction instruction are available on github. We strongly recommend you to do this.
 
