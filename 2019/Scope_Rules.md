@@ -29,9 +29,8 @@ forum.decred.org
 
 proposals.decred.org (Production site for politeia do not test here)
 
-**Any Staging site:**
 
-*staging.decred.org
+*staging.decred.org (Stating sites)
 
 
 
