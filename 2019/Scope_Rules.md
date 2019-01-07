@@ -12,7 +12,7 @@ The decred community welcomes security researchers and bug bounty hunters to fin
 |[dcrwebapi](https://github.com/decred/dcrwebapi)|https://api.decred.org|
 |[testnetfaucet](https://github.com/decred/testnetfaucet)|https://faucet.decred.org|
 |[dcr-netstats](https://github.com/decred/dcr-netstats)|https://stats.decred.org|
-|[dcrdata](https://github.com/decred/dcrdata) *(latest stable release branch only)*|https://explorer.decred.org|
+|[dcrdata](https://github.com/decred/dcrdata) *(latest stable release branch only)*|https://explorer.dcrdata.org|
 |[dcrtime](https://github.com/decred/dcrtime)|https://time.decred.org|
 |[dcrd](https://github.com/decred/dcrd)||
 |[dcrwallet](https://github.com/decred/dcrwallet)||
