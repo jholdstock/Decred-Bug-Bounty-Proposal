@@ -2,69 +2,35 @@
 
 The decred community welcomes security researchers and bug bounty hunters to find security vulnerabilities in its website and projects. (more text to follow). All bug reports need to have a clear exploit or POC.
 
-**The the following domains are in scope:**
-
-*.decred.org
-
-*.dcrdata.org
-
-(See exceptions below)
-
-
-**The following domains are not in scope:**
-
-slack.decred.org 
-
-alpha.dcrdata.org 
-
-insight.decred.org
-
-slack2.decred.org
-
-rocketchat.decred.org
-
-bridge.decred.org
-
-forum.decred.org
-
-proposals.decred.org (Production site for politeia do not test here)
-
-
-*staging.decred.org (Staging sites)
-
-
-
 **Projects in scope :**
 
-The following active projects under (https://github.com/decred/) :
+|Github repo|URL|
+|---|---|
+|[dcrweb](https://github.com/decred/dcrweb)|https://decred.org|
+|[politeia](https://github.com/decred/politeia) & [politeiagui](https://github.com/decred/politeiagui)|https://proposals.decred.org|
+|[dcrdocs](https://github.com/decred/dcrdocs)|https://docs.decred.org|
+|[dcrwebapi](https://github.com/decred/dcrwebapi)|https://api.decred.org|
+|[testnetfaucet](https://github.com/decred/testnetfaucet)|https://faucet.decred.org|
+|[dcr-netstats](https://github.com/decred/dcr-netstats)|https://stats.decred.org|
+|[dcrdata](https://github.com/decred/dcrdata)|https://explorer.decred.org|
+|[dcrtime](https://github.com/decred/dcrtime)|https://time.decred.org|
+|[dcrd](https://github.com/decred/dcrd)||
+|[dcrwallet](https://github.com/decred/dcrwallet)||
+|[decrediton](https://github.com/decred/decrediton)||
+|[atomicswap](https://github.com/decred/atomicswap) ||
+|[dcrstakepool](https://github.com/decred/dcrstakepool)||
 
-dcrd (Only https://github.com/decred/dcrd/releases/latest) 
+**The following are not in scope:**
 
-dcrdata (Only https://github.com/decred/dcrdata/releases/latest) 
-
-dcrwallet (Only https://github.com/decred/dcrwallet/releases/latest) 
-
-decrediton (Only https://github.com/decred/decrediton/releases/latest) 
-
-politeia
-
-politeiagui
-
-atomicswap 
-
-dcrstakepool (Only medium and above vulnerabilites will be eligible for bounty)
-
-dcrweb 
-
-dcrwebapi 
-
-dcrdocs
-
-testnetfaucet 
-
-dcr-netstats 
-
-
+- Chat and communication platforms including Slack, RocketChat, Matrix, Discord and the Decred forum.
+- Testing or staging sites
+- Mobile wallets ([dcrios](https://github.com/decred/dcrios) and [dcrandroid](https://github.com/decred/dcrandroid))
+- Projects still under development
+- Deprecated projects including:
+  - [insight](https://github.com/decred/insight) and [insight-api](https://github.com/decred/insight-api)
+  - [bitcore-wallet-service](https://github.com/decred/bitcore-wallet-service)
+  - [Paymetheus](https://github.com/decred/paymetheus)
+  - [Copay](https://github.com/decred/copay)
 
 
 **The following vulnerabilities are generally out of scope:**
