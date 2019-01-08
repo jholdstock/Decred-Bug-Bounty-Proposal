@@ -25,6 +25,7 @@ The decred community welcomes security researchers and bug bounty hunters to fin
 - Chat and communication platforms including Slack, RocketChat, Matrix, Discord and the Decred forum.
 - Testing or staging sites
 - Mobile wallets ([dcrios](https://github.com/decred/dcrios) and [dcrandroid](https://github.com/decred/dcrandroid))
+- Web wallet (https://wallet.decred.org)
 - Projects still under development
 - Deprecated projects including:
   - [insight](https://github.com/decred/insight) and [insight-api](https://github.com/decred/insight-api)
