@@ -1,0 +1,7 @@
+Payment has been sent to the address you provided.
+
+The transaction can be seen on the block explorer here: <https://explorer.dcrdata.org/tx/InsertTxIdHere>
+
+Thanks again for your submission to the Decred bug bounty program.
+
+The Decred Project.
