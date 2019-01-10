@@ -1,0 +1,10 @@
+We are happy to inform you that a fix has been produced for the issue reported and you are now eligible for payment.
+
+Based on the payout schedule detailed here <Insert URL>, you are eligible for a payment of <XXX> DCR.
+
+Please respond to this email with the DCR address you wish to receive the payment. If you need support creating a Decred wallet or address, you can visit our documentation website so you can contact us on Matrix.
+
+https://docs.decred.org/wallets/decrediton/decrediton-setup/
+https://decred.org/community/
+
+The Decred Project.

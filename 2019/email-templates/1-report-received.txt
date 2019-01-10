@@ -1,0 +1,5 @@
+Thank you for your submission to the Decred bug bounty program.
+
+We will investigate the issue you have reported and respond to this email with the outcome of our investigation.
+
+The Decred Project.

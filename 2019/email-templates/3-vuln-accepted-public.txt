@@ -1,0 +1,8 @@
+We have concluded the investigation and determined that this defect is eligible for the bug bounty program.
+
+An issue has been created on GitHub:
+	<https://github.com/the/issue/url>
+
+We will contact you again for payment details once a fix has been produced and merged.
+
+The Decred Project.
