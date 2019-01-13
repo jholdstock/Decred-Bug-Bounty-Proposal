@@ -1,6 +1,6 @@
 **Introduction:**
 
-The decred community welcomes security researchers and bug bounty hunters to find security vulnerabilities in its website and projects. (more text to follow). All bug reports need to have a clear exploit or POC. All bugs must be reproducible in the latest production release or the master branch of the code. Bugs in old releases or feature branches are not in scope.
+The decred community welcomes security researchers and bug bounty hunters to find security vulnerabilities in its website's and projects. All bug reports need to have a clear exploit or POC. All bugs must be reproducible in the latest production release or the master branch of the code. Bugs in old releases or feature branches are not in scope.
 
 **Projects in scope :**
 
@@ -76,6 +76,6 @@ The decred community welcomes security researchers and bug bounty hunters to fin
     
     Always check the "issues" in github of a project to avoid a duplicate report
 
-    Use the testnet when possible.
+    Use simnet when possible, do not attempt to attack the mainnet.
 
-    Decred project is not responsible for any loss of DCR due to bug testing. (ie: don't do dumb stuff and lose your DCR)
+    Decred project is not responsible for any loss of DCR due to bug testing. 
